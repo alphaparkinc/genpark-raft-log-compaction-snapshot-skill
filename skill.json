@@ -1,0 +1,15 @@
+{
+  "name": "genpark-raft-log-compaction-snapshot-skill",
+  "version": "1.0.0",
+  "description": "Raft log compaction and state machine snapshotting engine discarding committed entries and preserving consistent cluster metadata.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "raft-consensus",
+    "log-compaction",
+    "snapshotting",
+    "distributed-systems"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
